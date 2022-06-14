@@ -13,3 +13,6 @@ A͟b͟o͟u͟t͟ ͟m͟e͟
 Hazza3100/Hazza3100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazza3100)](https://github.com/anuraghazra/github-readme-stats)
