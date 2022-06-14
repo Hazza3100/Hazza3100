@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/{username}/{project-name})
+[![HitCount](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/Hazza3100/Hazza3100)
 
 - 👋 discord.gg/phts
 
