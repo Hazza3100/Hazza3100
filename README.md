@@ -8,7 +8,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: English/French
-- 👀 Interested in Botting | Discord Bots | Twitch
+- 👀 Interested in Botting | Simple Scripts | Twitch
 - 🌱 I work with Requests | Discord
 
 <!---
