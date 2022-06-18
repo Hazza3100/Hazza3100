@@ -1,4 +1,4 @@
-[![Profile Views](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/Hazza3100/Hazza3100)
+[![Hits](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/Hazza3100/Hazza3100)
 
 - 👋 discord.gg/phts
 
