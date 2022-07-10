@@ -1,5 +1,7 @@
 [![Hits](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/Hazza3100/Hazza3100)
 
+![Header](./header.png)
+
 - 👋 discord.gg/phts
 
 C͟o͟n͟t͟a͟c͟t͟
