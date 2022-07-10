@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
  -->
 
 
-![Footer](./footer.png)
+<!-- ![Footer](./footer.png) -->
