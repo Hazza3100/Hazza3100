@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://lanyard.cnrad.dev/api/835446404503437331" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true)
+                      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true)
