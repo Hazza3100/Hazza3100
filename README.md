@@ -18,10 +18,8 @@ Hazza3100/Hazza3100 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hazza3100</h1>
-<a href="https://github.com/Hazza3100"></a>
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/997512351760789507"/>
+<p href="https://discord.gg/phts" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
 </p>
 
 <h1 align="center">Stats</h1>
