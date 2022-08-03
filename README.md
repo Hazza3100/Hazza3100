@@ -11,7 +11,7 @@ C͟o͟n͟t͟a͟c͟t͟
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: English/French
 - 👀 Interested in Botting | Simple Scripts | Twitch
-- 🌱 I work with Requests | Discord
+- 🌱 I work with Requests | Twitch | Website Automation
 
 <!---
 Hazza3100/Hazza3100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
