@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p href="Hazza" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/971783911610941534/>
 
 <h1 align="center">Stats</h1>
 <a href="https://github.com/Hazza3100"></a>
