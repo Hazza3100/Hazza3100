@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p href="Sandwich" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
 </p>
 
 <h1 align="center">Stats</h1>
