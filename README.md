@@ -7,7 +7,7 @@
 - 👋 discord.gg/phts
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: !Hazza#0001
+- 📫 Reach me at: !Hazza#0001 for custom work or any inquires.
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
