@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/Hazza3100" alt="Hazza3100" /> </p>
 
-![Header](./header.png)
+![Header](./hazza_gitBanner.png)
 
 - 👋 discord.gg/phts
 
