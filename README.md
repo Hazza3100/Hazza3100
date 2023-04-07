@@ -12,7 +12,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: English/French
-- 👀 Interested in Botting | Automation | Frontend | Backend
+- 👀 Interested in | Automating the manuel | Frontend | Backend
 - 🌱 I work with Python | html/css | JavaScript | Go
 <!---
 Hazza3100/Hazza3100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
