@@ -4,7 +4,7 @@
 
 ![Header](./hazza_gitBanner.png)
 
-- 👋 discord.gg/
+- 👋 https://averyboosts.store
 
 C͟o͟n͟t͟a͟c͟t͟
 - 📫 Reach me at: !Hazza#0001 for custom work or any inquiries.
